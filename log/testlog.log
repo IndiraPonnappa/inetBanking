@@ -1,0 +1,167 @@
+2020-09-02 18:50:33,840 - inetbanking -INFO - Navigated to the url
+2020-09-02 18:51:14,629 - inetbanking -INFO - Navigated to the url
+2020-09-02 18:56:53,524 - inetbanking -INFO - Navigated to the url
+2020-09-02 18:58:28,013 - inetbanking -INFO - Navigated to the url
+2020-09-02 18:58:28,457 - inetbanking -INFO - Entered user name
+2020-09-02 18:58:28,618 - inetbanking -INFO - Entered password
+2020-09-02 19:01:16,150 - inetbanking -INFO - Navigated to the url
+2020-09-02 19:01:16,447 - inetbanking -INFO - Entered user name
+2020-09-02 19:01:16,612 - inetbanking -INFO - Entered password
+2020-09-02 19:01:59,046 - inetbanking -INFO - Navigated to the url
+2020-09-02 19:01:59,355 - inetbanking -INFO - Entered user name
+2020-09-02 19:01:59,554 - inetbanking -INFO - Entered password
+2020-09-02 19:02:01,825 - inetbanking -INFO - Login successfull
+2020-09-02 20:13:26,566 - inetbanking -INFO - Navigated to the url
+2020-09-02 20:13:27,775 - inetbanking -INFO - Entered user name
+2020-09-02 20:13:28,015 - inetbanking -INFO - Entered password
+2020-09-02 20:13:33,772 - inetbanking -INFO - Login successfull
+2020-09-03 14:23:40,852 - inetbanking -INFO - Navigated to the url
+2020-09-03 14:23:42,108 - inetbanking -INFO - Entered user name
+2020-09-03 14:23:42,316 - inetbanking -INFO - Entered password
+2020-09-03 14:24:02,355 - inetbanking -INFO - Login successfull
+2020-09-03 14:30:11,888 - inetbanking -INFO - Navigated to the url
+2020-09-03 14:30:12,755 - inetbanking -INFO - Entered user name
+2020-09-03 14:30:13,063 - inetbanking -INFO - Entered password
+2020-09-03 14:30:18,470 - inetbanking -INFO - Login successfull
+2020-09-03 15:53:18,890 - inetbanking -INFO - Navigated to the url
+2020-09-03 15:53:20,072 - inetbanking -INFO - Entered user name
+2020-09-03 15:53:20,270 - inetbanking -INFO - Entered password
+2020-09-03 15:53:40,413 - inetbanking -INFO - Login successfull
+2020-09-03 19:08:24,552 - inetbanking -INFO - Navigated to the url
+2020-09-03 19:08:41,193 - inetbanking -INFO - Entered user name
+2020-09-03 19:08:41,509 - inetbanking -INFO - Entered password
+2020-09-07 17:11:03,573 - inetbanking -INFO - Username entered
+2020-09-07 17:11:03,962 - inetbanking -INFO - Password entered
+2020-09-07 17:11:06,078 - inetbanking -INFO - Login button clicked
+2020-09-07 19:02:27,704 - inetbanking -INFO - Username entered
+2020-09-07 19:02:28,047 - inetbanking -INFO - Password entered
+2020-09-07 19:02:30,261 - inetbanking -INFO - Login button clicked
+2020-09-07 19:02:33,571 - inetbanking -INFO - Login passed
+2020-09-07 19:02:37,838 - inetbanking -INFO - Loggedout successfully
+2020-09-07 19:02:42,823 - inetbanking -INFO - Username entered
+2020-09-07 19:02:42,997 - inetbanking -INFO - Password entered
+2020-09-07 19:02:43,518 - inetbanking -INFO - Login button clicked
+2020-09-07 19:02:48,229 - inetbanking -INFO - Username entered
+2020-09-07 19:02:48,395 - inetbanking -INFO - Password entered
+2020-09-07 19:02:49,951 - inetbanking -INFO - Login button clicked
+2020-09-07 19:02:52,973 - inetbanking -INFO - Login passed
+2020-09-07 19:02:54,238 - inetbanking -INFO - Loggedout successfully
+2020-09-07 19:02:59,134 - inetbanking -INFO - Username entered
+2020-09-07 19:02:59,350 - inetbanking -INFO - Password entered
+2020-09-07 19:02:59,880 - inetbanking -INFO - Login button clicked
+2020-09-07 19:03:05,348 - inetbanking -INFO - Username entered
+2020-09-07 19:03:05,530 - inetbanking -INFO - Password entered
+2020-09-07 19:03:06,147 - inetbanking -INFO - Login button clicked
+2020-09-07 22:22:05,281 - inetbanking -INFO - Username provided
+2020-09-07 22:22:27,626 - inetbanking -INFO - Password provided
+2020-09-07 22:22:30,680 - inetbanking -INFO - Login button clicked
+2020-09-07 22:23:40,888 - inetbanking -INFO - Username provided
+2020-09-07 22:23:41,058 - inetbanking -INFO - Password provided
+2020-09-07 22:23:42,902 - inetbanking -INFO - Login button clicked
+2020-09-07 22:31:13,259 - inetbanking -INFO - Username provided
+2020-09-07 22:31:13,832 - inetbanking -INFO - Password provided
+2020-09-07 22:31:17,495 - inetbanking -INFO - Login button clicked
+2020-09-07 22:37:46,351 - inetbanking -INFO - Username provided
+2020-09-07 22:37:46,618 - inetbanking -INFO - Password provided
+2020-09-07 22:37:48,408 - inetbanking -INFO - Login button clicked
+2020-09-07 22:45:49,282 - inetbanking -INFO - Username provided
+2020-09-07 22:45:49,610 - inetbanking -INFO - Password provided
+2020-09-07 22:45:52,846 - inetbanking -INFO - Login button clicked
+2020-09-07 22:45:56,881 - inetbanking -INFO - providing customer details....
+2020-09-07 22:46:06,346 - inetbanking -INFO - validation started....
+2020-09-07 22:46:06,474 - inetbanking -INFO - test case passed....
+2020-09-07 22:50:27,523 - inetbanking -INFO - Navigated to the url
+2020-09-07 22:50:28,603 - inetbanking -INFO - Entered user name
+2020-09-07 22:50:28,811 - inetbanking -INFO - Entered password
+2020-09-07 22:50:31,247 - inetbanking -INFO - Clicked on submit button
+2020-09-07 22:50:31,323 - inetbanking -INFO - Login successfull
+2020-09-07 22:50:51,687 - inetbanking -INFO - Username entered
+2020-09-07 22:50:51,839 - inetbanking -INFO - Password entered
+2020-09-07 22:50:54,111 - inetbanking -INFO - Login button clicked
+2020-09-07 22:50:57,493 - inetbanking -INFO - Login passed
+2020-09-07 22:50:59,308 - inetbanking -INFO - Loggedout successfully
+2020-09-07 22:51:04,083 - inetbanking -INFO - Username entered
+2020-09-07 22:51:04,172 - inetbanking -INFO - Password entered
+2020-09-07 22:51:04,317 - inetbanking -INFO - Login button clicked
+2020-09-07 22:51:07,343 - inetbanking -INFO - Login passed
+2020-09-07 22:51:38,382 - inetbanking -INFO - Username entered
+2020-09-07 22:51:38,600 - inetbanking -INFO - Password entered
+2020-09-07 22:51:38,735 - inetbanking -INFO - Login button clicked
+2020-09-07 22:51:41,759 - inetbanking -INFO - Login passed
+2020-09-07 22:52:11,938 - inetbanking -INFO - Username entered
+2020-09-07 22:52:12,031 - inetbanking -INFO - Password entered
+2020-09-07 22:52:12,820 - inetbanking -INFO - Login button clicked
+2020-09-07 22:52:17,874 - inetbanking -INFO - Username entered
+2020-09-07 22:52:17,990 - inetbanking -INFO - Password entered
+2020-09-07 22:52:18,083 - inetbanking -INFO - Login button clicked
+2020-09-07 22:52:21,100 - inetbanking -INFO - Login passed
+2020-09-07 22:53:08,227 - inetbanking -INFO - Username provided
+2020-09-07 22:53:09,954 - inetbanking -INFO - Password provided
+2020-09-07 22:53:12,414 - inetbanking -INFO - Login button clicked
+2020-09-07 22:53:16,216 - inetbanking -INFO - providing customer details....
+2020-09-07 22:53:24,632 - inetbanking -INFO - validation started....
+2020-09-07 22:53:24,811 - inetbanking -INFO - test case passed....
+2020-09-08 13:59:08,681 - inetbanking -INFO - Username provided
+2020-09-08 13:59:09,086 - inetbanking -INFO - Password provided
+2020-09-08 13:59:11,842 - inetbanking -INFO - Login button clicked
+2020-09-08 13:59:15,192 - inetbanking -INFO - providing customer details....
+2020-09-08 13:59:27,114 - inetbanking -INFO - validation started....
+2020-09-08 13:59:27,346 - inetbanking -INFO - test case passed....
+2020-09-08 15:14:22,500 - inetbanking -INFO - Navigated to the url
+2020-09-08 15:14:29,072 - inetbanking -INFO - Entered user name
+2020-09-08 15:14:29,335 - inetbanking -INFO - Entered password
+2020-09-08 15:14:30,212 - inetbanking -INFO - Clicked on submit button
+2020-09-08 15:14:55,639 - inetbanking -INFO - Username entered
+2020-09-08 15:14:55,783 - inetbanking -INFO - Password entered
+2020-09-08 15:14:59,149 - inetbanking -INFO - Login button clicked
+2020-09-08 15:15:02,680 - inetbanking -INFO - Login passed
+2020-09-08 15:15:04,684 - inetbanking -INFO - Loggedout successfully
+2020-09-08 15:15:10,221 - inetbanking -INFO - Username entered
+2020-09-08 15:15:10,396 - inetbanking -INFO - Password entered
+2020-09-08 15:15:10,942 - inetbanking -INFO - Login button clicked
+2020-09-08 15:15:15,735 - inetbanking -INFO - Username entered
+2020-09-08 15:15:15,847 - inetbanking -INFO - Password entered
+2020-09-08 15:15:17,453 - inetbanking -INFO - Login button clicked
+2020-09-08 15:15:20,468 - inetbanking -INFO - Login passed
+2020-09-08 15:15:22,356 - inetbanking -INFO - Loggedout successfully
+2020-09-08 15:15:27,389 - inetbanking -INFO - Username entered
+2020-09-08 15:15:27,567 - inetbanking -INFO - Password entered
+2020-09-08 15:15:28,312 - inetbanking -INFO - Login button clicked
+2020-09-08 15:15:34,072 - inetbanking -INFO - Username entered
+2020-09-08 15:15:34,186 - inetbanking -INFO - Password entered
+2020-09-08 15:15:34,715 - inetbanking -INFO - Login button clicked
+2020-09-08 15:16:00,669 - inetbanking -INFO - Username provided
+2020-09-08 15:16:01,184 - inetbanking -INFO - Password provided
+2020-09-08 15:16:03,174 - inetbanking -INFO - Login button clicked
+2020-09-08 15:16:06,558 - inetbanking -INFO - providing customer details....
+2020-09-08 15:16:15,368 - inetbanking -INFO - validation started....
+2020-09-08 15:16:15,444 - inetbanking -INFO - test case passed....
+2020-09-08 20:03:21,339 - inetbanking -INFO - Navigated to the url
+2020-09-08 20:03:25,695 - inetbanking -INFO - Entered user name
+2020-09-08 20:03:25,970 - inetbanking -INFO - Entered password
+2020-09-08 20:03:28,555 - inetbanking -INFO - Clicked on submit button
+2020-09-08 20:03:28,616 - inetbanking -INFO - Login successfull
+2020-09-08 20:04:30,669 - inetbanking -INFO - Username entered
+2020-09-08 20:04:31,060 - inetbanking -INFO - Password entered
+2020-09-08 20:04:33,504 - inetbanking -INFO - Login button clicked
+2020-09-08 20:04:38,638 - inetbanking -INFO - Login passed
+2020-09-08 20:04:40,112 - inetbanking -INFO - Loggedout successfully
+2020-09-08 20:04:44,718 - inetbanking -INFO - Username entered
+2020-09-08 20:04:44,850 - inetbanking -INFO - Password entered
+2020-09-08 20:04:45,460 - inetbanking -INFO - Login button clicked
+2020-09-08 20:04:51,020 - inetbanking -INFO - Username entered
+2020-09-08 20:04:51,291 - inetbanking -INFO - Password entered
+2020-09-08 20:04:52,836 - inetbanking -INFO - Login button clicked
+2020-09-08 20:04:55,852 - inetbanking -INFO - Login passed
+2020-09-08 20:04:57,795 - inetbanking -INFO - Loggedout successfully
+2020-09-08 20:05:02,513 - inetbanking -INFO - Username entered
+2020-09-08 20:05:02,643 - inetbanking -INFO - Password entered
+2020-09-08 20:05:03,119 - inetbanking -INFO - Login button clicked
+2020-09-08 20:05:07,719 - inetbanking -INFO - Username entered
+2020-09-08 20:05:07,863 - inetbanking -INFO - Password entered
+2020-09-08 20:05:08,343 - inetbanking -INFO - Login button clicked
+2020-09-08 20:42:14,055 - inetbanking -INFO - Navigated to the url
+2020-09-08 20:42:15,283 - inetbanking -INFO - Entered user name
+2020-09-08 20:42:15,506 - inetbanking -INFO - Entered password
+2020-09-08 20:42:18,008 - inetbanking -INFO - Clicked on submit button
+2020-09-08 20:42:18,094 - inetbanking -INFO - Login successfull
